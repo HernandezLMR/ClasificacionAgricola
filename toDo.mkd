@@ -1,0 +1,16 @@
+# Objetivos principales
+- Análisis de datos (distribucion de clases, estadistica general)
+- Preprocesamiento de datos
+- Segmentación de ROI
+- Implementación de arbol de decisión
+- Implementación de bosques aleatorios
+- Implementación de regresión logistica u otro algoritmo supervisado
+- Comparar resultados (precisión, matriz de confusión, recall, F1-score, etc.)
+- Reporte de evaluación de resultados
+
+# Entregables
+- Introducción del proyecto y justificación del enfoque
+- Metodología
+- Resultados y análisis de resultados
+- Conclusiones del rendimiento del modelo y aprendizajes clave
+- Documentación de ajustes extra (si existen)
