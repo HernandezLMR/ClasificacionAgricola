@@ -1,0 +1,22 @@
+Cardamom images are really low quality and small
+Banana images are almost all green, including the fruit
+Some images contain severe noise such as bright text, watermarks, colored borders, arrows, colored backgrounds, people
+Clove images are really small
+There are images of the plants in stages without any fruit present
+Images of fruit are present in varying ripeness/color
+Images vary wildly in size
+Cotton is going to be a nightmare to classify with a mix of all green plants and all white flowers and a man in all white next to the Cotton
+Fox nut images are postcard sized
+Lemon images are small
+Some maize images are small
+Most mustard oil images are small
+Olive tree images look annoying to work with
+Most pearl millet images are small
+Some rice images are small
+Some soybean images are small
+All sugar cane images are small
+There is an annoying mix of horizontal and vertical style images
+All tea images are small, so to the point of being unusable
+All tobacco images are small
+Tomato images have a wide size range
+Some vigna radiati images are small
